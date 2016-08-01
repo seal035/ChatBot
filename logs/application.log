@@ -1,0 +1,312 @@
+2016-08-01 21:35:57,333 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting vocabulary building...
+
+2016-08-01 21:35:57,550 - [INFO] - from org.deeplearning4j.models.word2vec.wordstore.VocabConstructor in main
+                
+Sequences checked: [30], Current vocabulary size: [2291]
+
+2016-08-01 21:35:57,656 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Building learning algorithms:
+
+2016-08-01 21:35:57,657 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building ElementsLearningAlgorithm: [SkipGram]
+
+2016-08-01 21:35:57,657 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building SequenceLearningAlgorithm: [DBOW]
+
+2016-08-01 21:35:57,657 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting learning process...
+
+2016-08-01 21:36:03,067 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [1]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:07,200 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [2]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:10,156 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [3]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:14,583 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [4]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:19,107 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [5]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:23,233 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [6]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:27,327 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [7]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:31,399 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [8]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:35,472 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [9]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:39,600 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [10]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:43,938 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [11]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:48,019 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [12]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:52,187 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [13]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:36:56,319 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [14]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:00,489 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [15]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:04,549 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [16]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:08,597 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [17]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:12,756 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [18]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:16,955 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [19]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:37:21,009 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [20]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:15,923 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting vocabulary building...
+
+2016-08-01 21:39:16,097 - [INFO] - from org.deeplearning4j.models.word2vec.wordstore.VocabConstructor in main
+                
+Sequences checked: [30], Current vocabulary size: [2291]
+
+2016-08-01 21:39:16,167 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Building learning algorithms:
+
+2016-08-01 21:39:16,167 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building ElementsLearningAlgorithm: [SkipGram]
+
+2016-08-01 21:39:16,168 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building SequenceLearningAlgorithm: [DBOW]
+
+2016-08-01 21:39:16,168 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting learning process...
+
+2016-08-01 21:39:21,354 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [1]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:25,563 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [2]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:30,651 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [3]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:34,751 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [4]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:38,849 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [5]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:42,985 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [6]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:46,978 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [7]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:50,890 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [8]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:54,952 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [9]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:39:59,050 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [10]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:03,156 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [11]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:07,203 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [12]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:11,156 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [13]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:15,162 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [14]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:19,263 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [15]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:23,385 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [16]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:27,448 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [17]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:31,450 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [18]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:35,465 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [19]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-01 21:40:39,554 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [20]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:05:49,173 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting vocabulary building...
+
+2016-08-02 00:05:49,371 - [INFO] - from org.deeplearning4j.models.word2vec.wordstore.VocabConstructor in main
+                
+Sequences checked: [30], Current vocabulary size: [2291]
+
+2016-08-02 00:05:49,504 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Building learning algorithms:
+
+2016-08-02 00:05:49,504 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building ElementsLearningAlgorithm: [SkipGram]
+
+2016-08-02 00:05:49,504 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+          building SequenceLearningAlgorithm: [DBOW]
+
+2016-08-02 00:05:49,505 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Starting learning process...
+
+2016-08-02 00:05:53,183 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [1]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:05:57,264 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [2]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:01,835 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [3]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:07,496 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [4]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:11,958 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [5]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:15,909 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [6]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:19,833 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [7]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:23,772 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [8]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:28,049 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [9]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:32,066 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [10]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:36,006 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [11]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:39,934 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [12]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:43,873 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [13]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:47,835 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [14]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:51,757 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [15]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:55,725 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [16]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:06:59,655 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [17]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:07:03,637 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [18]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:07:07,602 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [19]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
+2016-08-02 00:07:11,525 - [INFO] - from org.deeplearning4j.models.sequencevectors.SequenceVectors in main
+                
+Epoch: [20]; Words vectorized so far: [7590];  Lines vectorized so far: [30]; learningRate: [0.001]
+
